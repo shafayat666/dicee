@@ -11,7 +11,7 @@ A fun, simple web-based dice game where two players can roll virtual dice to com
 - [Contributing](#contributing)
 
 ## Demo
-Check out the live demo [here](#).
+Check out the live demo [here](https://shafayat666.github.io/dicee/).
 
 ![Peview](./preview.gif)
 
